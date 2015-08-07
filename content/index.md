@@ -72,6 +72,68 @@ Description: I love to create delightful experiences on the web
 	</div>
 </div>
 
+<!-- What we do -->
+<div id="what-we-do" class="anchor"></div>
+<section id="services" class="hidden-xs">
+	<div class="container">
+		<h2 class="headline text-center">My UX Core Values</h2>
+		<div class="row">
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-branding md-trigger" data-modal="modal-branding">
+					<div class="service-content">
+						<p>I serve the business by serving the user first, foremost and forever</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-print md-trigger" data-modal="modal-print">
+					<div class="service-content">
+						<p>Design decisions are informed by data</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-web md-trigger" data-modal="modal-web">
+					<div class="service-content">
+						<p>Delight and usability should never be divorced</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-messaging md-trigger" data-modal="modal-messaging">
+					<div class="service-content">
+						<p>True simplicity</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-messaging md-trigger" data-modal="modal-messaging">
+					<div class="service-content">
+						<p>A user experience is great when the users say it is</p>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
+				<a href="services" class="btn btn-lg btn-red btn-lg btn-block">Learn More <span class="right-arrow">&#8608;</span></a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Belief #1 -->
+<div class="well well-lg">
+	<div class="diamond">
+		<div class="diamond-border">
+			<p>&#8220;</p>
+		</div>
+	</div>
+	<div class="container">
+		<p class="lead">&#8220;Life is a series of experiences, some good, some bad. <br>My job is to help design the good ones.&#8221;</p>
+		<div class="accent"></div>
+	</div>
+</div>
+
 <!-- About Me -->
 <div id="about-me" class="anchor"></div>
 <section id="me">
@@ -85,8 +147,7 @@ Description: I love to create delightful experiences on the web
 				<p>User experience designer with background in web-based products using user-centered design principles. I'm obsessed with building cool things with amazing people.  When you surround yourself with great people, great things happen.</p>
 				<p>Currently a UX team of one with Noble Software Group. I'm responsible for doing user research, usability testing, information architecture, interaction design, prototyping, and working with the back-end team to ship, all in a never-ending iterative loop.</p>
 				<p>From Jan. 2010 to Jan. 2015 I owned Sharp Machine Media – a branding, strategy and design agency. My client-facing responsibilities included UX design and UI development.</p>
-				<p>Besides that, I'm married to an amazing South African swimmer and we have our first child, a son, due in August.  We will be relocating to Seattle in the next 6-9 months.</p>
-				<p>P.S. – I'm currently available for UX consultation.</p>
+				<p>Besides that, I'm married to an amazing South African swimmer and we have our first child, a son, due in August.  We will be relocating to Seattle in the next 4-6 months.</p>
 			</div>
 		</div>
 	</div>
