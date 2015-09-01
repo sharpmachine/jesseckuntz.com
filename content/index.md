@@ -18,7 +18,7 @@ Description: I love to create delightful experiences on the web
 <div id="work" class="anchor"></div>
 <section id="work">
 	<div class="container">
-		<h2 class="headline text-center">My Work</h2>
+		<h2 class="headline text-center">Work</h2>
 		<div class="row">
 			<div class="col-sm-6 col-md-3 work-piece">
 				<a href="work/on-the-beam">
@@ -67,7 +67,7 @@ Description: I love to create delightful experiences on the web
 		</div>
 	</div>
 	<div class="container">
-		<p class="lead">&#8220;Life is a series of experiences, some good, some bad. <br>My job is to help design the good ones.&#8221;</p>
+		<p class="lead">&#8220;[UX] is the perfect balance between making money <br>and making meaning&#8221; – Whitney Hess</p>
 		<div class="accent"></div>
 	</div>
 </div>
@@ -76,7 +76,7 @@ Description: I love to create delightful experiences on the web
 <div id="what-we-do" class="anchor"></div>
 <section id="services" class="hidden-xs">
 	<div class="container">
-		<h2 class="headline text-center">My UX Core Values</h2>
+		<h2 class="headline text-center">UX Core Values</h2>
 		<div class="row">
 			<div class="col-sm-6 col-md-3 service">
 				<div class="service-inner service-branding md-trigger" data-modal="modal-branding">
@@ -88,34 +88,41 @@ Description: I love to create delightful experiences on the web
 			<div class="col-sm-6 col-md-3 service">
 				<div class="service-inner service-print md-trigger" data-modal="modal-print">
 					<div class="service-content">
-						<p>Design decisions are informed by data</p>
+						<p>I make design decisions that are informed by research and data</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-6 col-md-3 service">
 				<div class="service-inner service-web md-trigger" data-modal="modal-web">
 					<div class="service-content">
-						<p>Delight and usability should never be divorced</p>
+						<p>I believe aesthetics and usability should never be divorced</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-6 col-md-3 service">
 				<div class="service-inner service-messaging md-trigger" data-modal="modal-messaging">
 					<div class="service-content">
-						<p>True simplicity</p>
+						<p>I strive to make interactions feel simple, relevant and even magical</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-sm-6 col-md-3 service">
 				<div class="service-inner service-messaging md-trigger" data-modal="modal-messaging">
 					<div class="service-content">
-						<p>A user experience is great when the users say it is</p>
+						<p>I believe a user experience is great when the users say it’s great</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 col-md-3 service">
+				<div class="service-inner service-messaging md-trigger" data-modal="modal-messaging">
+					<div class="service-content">
+						<p>I believe in improvements over perfection</p>
 					</div>
 				</div>
 			</div>
 			<div class="clearfix"></div>
 			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
-				<a href="services" class="btn btn-lg btn-red btn-lg btn-block">Learn More <span class="right-arrow">&#8608;</span></a>
+				<a href="values" class="btn btn-lg btn-red btn-lg btn-block">Learn More <span class="right-arrow">&#8608;</span></a>
 			</div>
 		</div>
 	</div>
@@ -144,10 +151,10 @@ Description: I love to create delightful experiences on the web
 				<img src="themes/smm/img/jesse.jpg" class="img-responsive" alt="Jesse Kade" width="1110" height="1110">
 			</div>
 			<div class="col-sm-6">
-				<p>User experience designer with background in web-based products using user-centered design principles. I'm obsessed with building cool things with amazing people.  When you surround yourself with great people, great things happen.</p>
+				<p>User experience designer with background in web-based products using user-centered design principles. I'm obsessed with building cool things with great people.  When you surround yourself with great people, great things happen.</p>
 				<p>Currently a UX team of one with Noble Software Group. I'm responsible for doing user research, usability testing, information architecture, interaction design, prototyping, and working with the back-end team to ship, all in a never-ending iterative loop.</p>
 				<p>From Jan. 2010 to Jan. 2015 I owned Sharp Machine Media – a branding, strategy and design agency. My client-facing responsibilities included UX design and UI development.</p>
-				<p>Besides that, I'm married to an amazing South African swimmer and we have our first child, a son, due in August.  We will be relocating to Seattle in the next 4-6 months.</p>
+				<p>Besides that, I'm married to an amazing South African swimmer and we had our first child, a son, this August (his name is also August).  We will be relocating to Seattle in the next 4-6 months.</p>
 			</div>
 		</div>
 	</div>
