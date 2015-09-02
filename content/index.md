@@ -154,7 +154,7 @@ Description: I love to create delightful experiences on the web
 				<p>Currently a UX team of one with Noble Software Group. I'm responsible for doing user research, usability testing, information architecture, interaction design, prototyping, and working with the back-end team to ship, all in a never-ending iterative loop.</p>
 				<p>From Jan. 2010 to Jan. 2015 I owned Sharp Machine Media – a branding, strategy and design agency. My client-facing responsibilities included UX design and UI development.</p>
 				<p>Besides that, I'm married to an amazing South African swimmer and we had our first child, a son, this August (his name is also August).</p>
-				<p class="small">* We will be relocating to Seattle in the Spring of 2016.</p>
+				<p class="small">* We will be relocating from Redding, CA to Seattle, WA in the Spring of 2016.</p>
 			</div>
 		</div>
 	</div>
