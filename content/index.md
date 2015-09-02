@@ -74,7 +74,7 @@ Description: I love to create delightful experiences on the web
 
 <!-- What we do -->
 <div id="what-we-do" class="anchor"></div>
-<section id="services" class="hidden-xs">
+<section id="services">
 	<div class="container">
 		<h2 class="headline text-center">UX Core Values</h2>
 		<div class="row">
