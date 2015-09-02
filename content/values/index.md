@@ -45,7 +45,7 @@ Description: This description will go in the meta description tag
 					<h2 class="libre zero-mt">I believe aesthetics and usability should never be divorced</h2>	
 				</div>
 				<div class="col-sm-4">
-					<p class="lead">In Europe, if they need to build a bridge, it has to be functional and beautiful…something that delights as you’re driving across it. Out here in the western US, most of the time we just build a generic, boring bridge. If we’re going to build a world-changing product, let’s also make it beautiful.</p>					
+					<p class="lead">In Europe, if they need to build a bridge, it has to be functional and beautiful…something that delights you as you’re driving across it. Out here in the western U.S., most of the time we just build a generic, boring bridge. If we’re going to build a world-changing product, let’s also make it beautiful.</p>					
 				</div>
 			</div>
 		</div>
@@ -120,7 +120,7 @@ Description: This description will go in the meta description tag
 							<li>Stay out of people’s way</li>
 							<li>Create a hierarchy that matches people’s needs</li>
 							<li>Limit distractions</li>
-							<li>Provide strong information scent</li>
+							<li>Provide a strong information scent</li>
 							<li>Provide signposts and cues</li>
 							<li>Provide context</li>
 							<li>Use constraints appropriately</li>
