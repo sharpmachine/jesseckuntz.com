@@ -7,7 +7,7 @@ Description: This description will go in the meta description tag
 	<h1 class="title">UX Core Values</h1>
 </div>
 
-<section>
+<section class="service-description big-branding">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
@@ -22,7 +22,7 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section class="bg-brand-white">
+<section class="service-description big-print bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
@@ -37,7 +37,7 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section>
+<section class="service-description big-branding">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
@@ -52,7 +52,7 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section class="bg-brand-white">
+<section class="service-description big-print bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
@@ -67,7 +67,7 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section>
+<section class="service-description big-branding">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
@@ -82,7 +82,7 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
-<section class="bg-brand-white">
+<section class="service-description big-print bg-brand-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
@@ -97,6 +97,54 @@ Description: This description will go in the meta description tag
 	</div>
 </section>
 
+<section>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<h3>Some principles that guide my design, borrowed from UXers smarter than me:</h2>
+				<div class="row">
+					<div class="col-md-4">
+						<h4 class="libre"><a href="http://www.smashingmagazine.com/2014/01/lean-ux-manifesto-principle-driven-design/">Lean UX Manifesto</a></h4>
+						<ul>
+							<li>Early customer validation over releasing products with unknown end-user value</li>
+							<li>Collaborative design over designing on an island</li>
+							<li>Solving user problems over designing the next “cool” feature</li>
+							<li>Measuring KPIs over undefined success metrics</li>
+							<li>Applying appropriate tools over following a rigid plan</li>
+							<li>Nimble design over heavy wireframes, comps or specs</li>
+						</ul>
+					</div>
+					<div class="col-md-4">
+						<h4 class="libre">Whitney Hess’s <a href="https://www.youtube.com/watch?v=94HOViTj4iA">10 design principles</a></h4>
+						<ol>
+							<li>Stay out of people’s way</li>
+							<li>Create a hierarchy that matches people’s needs</li>
+							<li>Limit distractions</li>
+							<li>Provide strong information scent</li>
+							<li>Provide signposts and cues</li>
+							<li>Provide context</li>
+							<li>Use constraints appropriately</li>
+							<li>Make actions reversible</li>
+							<li>Provide feedback</li>
+							<li>Make a good first impression</li>
+						</ol>
+					</div>
+					<div class="col-md-4">
+						<h4 class="libre">Joshua Porter’s <a href="http://bokardo.com/archives/five-principles-to-design-by/">5 design principles</a></h4>
+						<ol>
+							<li>The Experience belongs to the user.</li>
+							<li>Technology serves humans.</li>
+							<li>Design is not Art.</li>
+							<li>Great design is invisible.</li>
+							<li>Simplicity is the ultimate sophistication.</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <!-- Belief #2 -->
 <div class="well well-lg">
 	<div class="diamond">
@@ -105,7 +153,7 @@ Description: This description will go in the meta description tag
 		</div>
 	</div>
 	<div class="container">
-		<p class="lead">&#8220;Good brands have customers.  Great brands have fans.&#8221;</p>
+		<p class="lead">&#8220;Technology serves humans. Humans do not <br>serve technology&#8221; – Joshua Porter</p>
 		<div class="accent"></div>
 	</div>
 </div>

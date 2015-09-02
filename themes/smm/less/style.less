@@ -119,8 +119,8 @@
   background-repeat: no-repeat;
   -webkit-background-size: 180px 180px;
   background-size: 180px 180px;
-  cursor: pointer;
-  .transition(all ease 0.2s);
+  // cursor: pointer;
+  // .transition(all ease 0.2s);
 
   @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
     background-position: top -60px right -60px;
@@ -151,20 +151,27 @@
     background-image: url(../img/messaging.svg);
   }
 
-  &:hover {
-    color: @brand-cream;
-    background-position: top -60px right -60px;
-    background-color: @brand-red;
-    .transition(all ease 0.2s);
+  // &:hover {
+  //   color: @brand-cream;
+  //   background-position: top -60px right -60px;
+  //   background-color: @brand-red;
+  //   .transition(all ease 0.2s);
 
-    h3 {
-      color: @brand-cream;
-      .transition(all ease 0.2s);
-    }
+  //   h3 {
+  //     color: @brand-cream;
+  //     .transition(all ease 0.2s);
+  //   }
 
-    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
-      background-position: top -50px right -50px;
-    }
+  //   @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+  //     background-position: top -50px right -50px;
+  //   }
+  // }
+}
+
+.core-values-btn {
+  .btn {
+    height: 220px;
+    line-height: 220px - 24px;
   }
 }
 
