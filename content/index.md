@@ -1,5 +1,5 @@
 /*
-Title: UX Designer &amp; UI Developer
+Title: UX Designer
 Description: I love to create delightful experiences on the web
 */
 

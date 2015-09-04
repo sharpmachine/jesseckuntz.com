@@ -12,8 +12,8 @@ require 'mina/git'
 
 set :user, 'root'
 set :domain, '198.199.115.198'
-set :deploy_to, '/sites/production/jessekuntz.co'
-set :repository, 'https://github.com/sharpmachine/jessekuntz.co.git'
+set :deploy_to, '/sites/production/jesseckuntz.com'
+set :repository, 'https://github.com/sharpmachine/jesseckuntz.com.git'
 set :branch, 'master'
 
 # Manually create these paths in shared/ (eg: shared/config/database.yml) in your server.
