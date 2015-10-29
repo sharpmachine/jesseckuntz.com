@@ -27,32 +27,163 @@ Description: Project presentation for Case Manager
 </section>
 
 <!-- Functional Spec -->
-<section class="functional-spec">
+<section>
 	<div class="container">
+		<h2 class="headline text-center">Product Strategy</h2>
 		<div class="row">
-			<aside class="col-sm-4 col-md-3">
-				<h3 class="libre h4">Functional Spec:</h3>
-				<p>Once all the research was gathered I worked with the client to develop a functional spec.  This really gave us a clear idea of the scope of the project and the users needs, as well as a robust document for the UI designer and developers to work from.</p>
-				<p><a href="https://docs.google.com/spreadsheet/ccc?key=0AjuYARr9qAjKdHNsa1ZXM2xHbnhhaGlxc0JrRWpjeXc&usp=sharing">See full spec spreadsheets</a></p>
-				<p><a href="https://drive.google.com/file/d/0BzuYARr9qAjKcEt2bWhXSjh0Qnc/view?usp=sharing">See full spec doc</a></p>
-			</aside>
-			<div class="col-sm-8 col-md-8">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/functional_spec.png" alt="Functional Spec Spreadsheet" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 2.0 - Functional Spec </figcaption>
-				</figure>
+			<div class="col-md-6">
+				<div class="row">
+					<div class="col-md-12">
+						<h4 class="libre">Challenges</h4>
+						<ul>
+							<li>Usability issues</li>
+							<li>Outdated UI look & feel</li>
+							<li>Frequency of errors</li>
+							<li>Slow performance</li>
+							<li>Connectivity issues</li>
+							<li>Transitioning code-base to new front-end </li>
+							<li>Transitioning current users to new UI</li>
+						</ul>
+					</div>
+					<div class="col-md-12">
+						<h4 class="libre">Focus Areas</h4>
+						<ul>
+							<li>Information Architecture </li>
+							<li>Interaction Design</li>
+							<li>Visual Design</li>
+							<li>Usability</li>
+							<li>Support (staff & self-help) </li>
+							<li>Development Practices</li>
+						</ul>
+					</div>
+					<div class="col-md-12">
+						<h4 class="libre">Activities</h4>
+						<ul>
+							<li>User interviews</li>
+							<li>Surveys</li>
+							<li>Personas</li>
+							<li>Observe user sessions </li>
+							<li>Analytics</li>
+							<li>Feedback</li>
+							<li>Information Architecture </li>
+							<li>Co-designing</li>
+							<li>Prototyping</li>
+							<li>Usability testing</li>
+							<li>Beta testing</li>
+							<li>Support</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="row">
+					<div class="col-md-12">
+						<h4 class="libre">Aspirations</h4>
+						<p>Imagine you’re a probation officer. Now imagine your goto online tool for risk/needs assessment and case planning worked with you, not just for you. It scored risk and needs like a boss. It suggested offender-specific suggestions goals and interventions. It gave you timely reminders to connect with an offender. You could meet your offenders at a coffee shop rather than your cold, dingy office. It rarely threw errors at you, but when it did the error messages were actually helpful. Imagine your goto tool didn't make you feel like it hated you.</p>
+						<p>We want our user experience to be:</p>
+						<ul>
+							<li>Fast (performance)</li>
+							<li>Less errors prone</li>
+							<li>The opposite of government</li>
+							<li>Suggestive</li>
+							<li>Relevant</li>
+							<li>Helpful, not hindering (no dead ends)</li>
+							<li>Modern</li>
+							<li>Insightful</li>
+							<li>Automagical</li>
+							<li>More than just a digital way of accomplishing job-related tasks</li>
+						</ul>
+					</div>
+					<div class="col-md-12">
+						<h4 class="libre">Guiding Principles (Lean UX Manifesto)</h4>
+						<ul>
+							<li>Early customer validation over releasing products with unknown end-user value</li>
+							<li>Collaborative design over designing on an island</li>
+							<li>Solving user problems over designing the next “cool” feature</li>
+							<li>Measuring KPIs over undefined success metrics</li>
+							<li>Applying appropriate tools over following a rigid plan</li>
+							<li>Nimble design over heavy wireframes, comps or specs</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<h4 class="libre">Measurements</h4>
+				<table class="table table-bordered">
+					<thead>
+						<tr>
+							<th>Goals</th>
+							<th>Measurements</th>
+							<th>Targets</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Improve Performance</td>
+							<td>
+								<ul>
+									<li>Reduce number of user errors </li>
+									<li>Increase ease of use</li>
+									<li>Increase ease of learning</li>
+									<li>Reduce time filling out forms </li>
+									<li>Better task completion</li>
+								</ul>
+							</td>
+							<td>Censored due to NDA</td>
+						</tr>
+						<tr>
+							<td>Improve Credibility</td>
+							<td>
+								<ul>
+									<li>Increase user satisfaction </li>
+									<li>Increase trust in the system </li>
+									<li>Higher frequency of use</li>
+								</ul>
+							</td>
+							<td>Censored due to NDA</td>
+						</tr>
+						<tr>
+							<td>Reduce Resource Burden</td>
+							<td>
+								<ul>
+									<li>Reduce development costs </li>
+									<li>Reduce development time </li>
+									<li>Reduce maintenance costs </li>
+									<li>Reduce redesign costs</li>
+									<li>Reduce supports costs </li>
+									<li>Increased self-support </li>
+									<li>Reduce training needed</li>
+								</ul>
+							</td>
+							<td>Censored due to NDA</td>
+						</tr>
+						<tr>
+							<td>Increase Sales</td>
+							<td>
+								<ul>
+									<li>Increase contracts with criminal justice departments</li>
+									<li>Retain current customers</li>
+								</ul>
+							</td>
+							<td>Censored due to NDA</td>
+						</tr>
+					</tbody>
+				</table>
 			</div>
 		</div>
 	</div>
 </section>
 
 <!-- Information Architecture -->
-<section class="info-architecture bg-brand-white">
+<section class="bg-brand-white">
 	<div class="container">
 		<div class="row">
+			<h2 class="headline text-center">Discovery</h2>
 			<aside class="col-sm-4 col-md-3">
-				<h3 class="libre h4">Information Architecture:</h3>
-				<p>Because the functional spec was so detailed, I was able to quickly design the IA.  I started on the whiteboard, did a few drafts, and once I was happy with my drafts I created clean and easy-to-understand flow charts.</p>
+				<h3 class="libre h4">Stakeholder Interviews:</h3>
+				<p>I began by conducting stakeholder interviews with each of the 5 owners. I asked them all the same questions. I wanted to get idea of their vision for the company, vision for the app, motivations, definition of project success, and where they felt the specific problem areas within the current app were.</p>
 			</aside>
 			<div class="col-sm-8 col-md-4">
 				<figure>
