@@ -26,7 +26,7 @@ Description: Project presentation for Case Manager
 	</div>
 </section>
 
-<!-- Functional Spec -->
+<!--Product Strategy -->
 <section>
 	<div class="container">
 		<h2 class="headline text-center">Product Strategy</h2>
@@ -176,11 +176,12 @@ Description: Project presentation for Case Manager
 	</div>
 </section>
 
-<!-- Information Architecture -->
+<!-- Discovery -->
 <section class="bg-brand-white">
 	<div class="container">
+		<h2 class="headline text-center">Discovery</h2>
 		<div class="row">
-			<h2 class="headline text-center">Discovery</h2>
+			<!--  -->
 			<aside class="col-sm-4 col-md-3">
 				<h3 class="libre h4">Stakeholder Interviews:</h3>
 				<p>I began by conducting stakeholder interviews with each of the 5 owners. I asked them all the same questions. I wanted to get idea of their vision for the company, vision for the app, motivations, definition of project success, and where they felt the specific problem areas within the current app were.</p>
@@ -197,103 +198,205 @@ Description: Project presentation for Case Manager
 					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
 				</figure>
 			</div>
-			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-3">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/MarketingConversion_fc.jpg" alt="Marketing Conversion Flow Chart" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.2 - Marketing Conversion Flow Chart</figcaption>
-				</figure>
-			</div>
-			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/Login_fc.jpg" alt="User Login Flow Chart" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.3 - User Login Flow Chart</figcaption>
-				</figure>
-			</div>
-			<div class="clearfix"></div>
-			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-3">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/Profile_fc.jpg" alt="User Profile Flow Chart" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.4 - User Profile Flow Chart</figcaption>
-				</figure>
-			</div>
-			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/After30DayTrial_fc.jpg" alt="Free Trial Expiration Flow Chart" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.5 - Free Trial Expiration Flow Chart</figcaption>
-				</figure>
-			</div>
 		</div>
-	</div>
-</section>
-
-<!-- Prototype -->
-<section class="prototype">
-	<div class="container">
+		<!--  -->
+		<hr style="margin-bottom: 45px;">
 		<div class="row">
 			<aside class="col-sm-4 col-md-3">
-				<h3 class="libre h4">Prototype:</h3>
-				<p>With the functional spec and IA approved by the client, I moved into a rapid protoyping phase.  I used Bootstrap and a PHP prototyping engine my friend wrote.  This gave the client and investors something to put their hands on, as well as something to do preliminary user testing with.  We found weaknesses and oversights, added items to the functional spec, then moved into wireframing.</p>
-				<p><a href="http://preview.sharpmachinemedia.com/onthebeam.com/">See full prototype</a></p>
-			</aside>
-			<div class="col-sm-8 col-md-8">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/prototype_discussions.png" alt="Discussions Page" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 4.0 - Discussions Page</figcaption>
-				</figure>
-			</div>
-			<div class="col-sm-8 col-sm-offset-4 col-md-8 col-md-offset-3">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/prototype_goals.png" alt="Goals Page" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 4.1 - Goals Page</figcaption>
-				</figure>
-			</div>
-			<div class="col-sm-8 col-sm-offset-4 col-md-8 col-md-offset-3">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/prototype_newsfeed.png" alt="Newsfeed Page" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 4.2 - Newsfeed Page</figcaption>
-				</figure>
-			</div>
-		</div>
-	</div>
-</section>
-
-<!-- Wireframes -->
-<section class="wireframes bg-brand-white">
-	<div class="container">
-		<div class="row">
-			<aside class="col-sm-4 col-md-3">
-				<h3 class="libre h4">Wireframes:</h3>
-				<p>The whiteboard wires were done for the prototype, while the hi-fi wires were done after we understood what was good/bad about the prototype.  I worked closely with an amazing UI designer, <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a>, to build out these wires.</p>
-				<p><a href="https://drive.google.com/file/d/0BzuYARr9qAjKeDhxWk1lQ2RKVUE/view?usp=sharing">See full Wires</a></p>
+				<h3 class="libre h4">Contextual Inquiries/User interviews:</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores soluta excepturi natus praesentium quaerat eius voluptas consectetur, quas architecto non!</p>
 			</aside>
 			<div class="col-sm-8 col-md-4">
 				<figure>
-					<img src="../themes/smm/img/project-assets/otb/Newsfeed_wires.jpg" alt="Rough Newsfeed Wires" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 5.0 - Rough Newsfeed Wires</figcaption>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-marketing.jpg" alt="Rough Flow Chart – Marketing" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.0 - Rough Flow Chart – Marketing</figcaption>
 				</figure>
 			</div>
 			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
 				<figure>
-					<img src="../themes/smm/img/project-assets/otb/Discussions_wires.jpg" alt="Rough Discussions Wires" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 5.1 - Rough Discussions Wires</figcaption>
-				</figure>
-			</div>
-			<div class="clearfix"></div>
-			<div class="col-sm-8 col-sm-offset-4 col-md-8 col-md-offset-3">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/On_The-Beam_Wires-10.jpg" alt="Marketing Homepage Desktop Wires" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 5.2 - Marketing Homepage Desktop Wires</figcaption>
-				</figure>
-			</div>
-			<div class="col-sm-8 col-sm-offset-4 col-md-8 col-md-offset-3">
-				<figure>
-					<img src="../themes/smm/img/project-assets/otb/On_The-Beam_Wires-2.jpg" alt="Marketing Homepage Mobile Wires" class="img-responsive">
-					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 5.3 - Marketing Homepage Mobile Wires</figcaption>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-admin.jpg" alt="Rough Flow Chart – Admin" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
 				</figure>
 			</div>
 		</div>
+			<!--  -->
+			<!--  -->
+		<hr style="margin-bottom: 45px;">
+		<div class="row">
+			<aside class="col-sm-4 col-md-3">
+				<h3 class="libre h4">Review Analytics:</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores soluta excepturi natus praesentium quaerat eius voluptas consectetur, quas architecto non!</p>
+			</aside>
+			<div class="col-sm-8 col-md-4">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-marketing.jpg" alt="Rough Flow Chart – Marketing" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.0 - Rough Flow Chart – Marketing</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-admin.jpg" alt="Rough Flow Chart – Admin" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
+				</figure>
+			</div>
+		</div>
+			<!--  -->
+			<!--  -->
+		<hr style="margin-bottom: 45px;">
+		<div class="row">
+			<aside class="col-sm-4 col-md-3">
+				<h3 class="libre h4">Observe user sessions with Inpectlet:</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores soluta excepturi natus praesentium quaerat eius voluptas consectetur, quas architecto non!</p>
+			</aside>
+			<div class="col-sm-8 col-md-4">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-marketing.jpg" alt="Rough Flow Chart – Marketing" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.0 - Rough Flow Chart – Marketing</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-admin.jpg" alt="Rough Flow Chart – Admin" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
+				</figure>
+			</div>
+		</div>
+			<!--  -->
+			<!--  -->
+		<hr style="margin-bottom: 45px;">
+		<div class="row">
+			<aside class="col-sm-4 col-md-3">
+				<h3 class="libre h4">Conduct Survey:</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores soluta excepturi natus praesentium quaerat eius voluptas consectetur, quas architecto non!</p>
+			</aside>
+			<div class="col-sm-8 col-md-4">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-marketing.jpg" alt="Rough Flow Chart – Marketing" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.0 - Rough Flow Chart – Marketing</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-admin.jpg" alt="Rough Flow Chart – Admin" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
+				</figure>
+			</div>
+		</div>
+			<!--  -->
 	</div>
 </section>
+
+<!-- Discovery -->
+<section>
+	<div class="container">
+		<h2 class="headline text-center">Design</h2>
+		<div class="row">
+			<!--  -->
+			<aside class="col-sm-4 col-md-3">
+				<h3 class="libre h4">Sketching:</h3>
+				<p>I began by conducting stakeholder interviews with each of the 5 owners. I asked them all the same questions. I wanted to get idea of their vision for the company, vision for the app, motivations, definition of project success, and where they felt the specific problem areas within the current app were.</p>
+			</aside>
+			<div class="col-sm-8 col-md-4">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-marketing.jpg" alt="Rough Flow Chart – Marketing" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.0 - Rough Flow Chart – Marketing</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-admin.jpg" alt="Rough Flow Chart – Admin" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
+				</figure>
+			</div>
+		</div>
+		<!--  -->
+		<hr style="margin-bottom: 45px;">
+		<div class="row">
+			<aside class="col-sm-4 col-md-3">
+				<h3 class="libre h4">Prototyping:</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores soluta excepturi natus praesentium quaerat eius voluptas consectetur, quas architecto non!</p>
+			</aside>
+			<div class="col-sm-8 col-md-4">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-marketing.jpg" alt="Rough Flow Chart – Marketing" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.0 - Rough Flow Chart – Marketing</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-admin.jpg" alt="Rough Flow Chart – Admin" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
+				</figure>
+			</div>
+		</div>
+			<!--  -->
+			<!--  -->
+		<hr style="margin-bottom: 45px;">
+		<div class="row">
+			<aside class="col-sm-4 col-md-3">
+				<h3 class="libre h4">User Co-Design Workshop:</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores soluta excepturi natus praesentium quaerat eius voluptas consectetur, quas architecto non!</p>
+			</aside>
+			<div class="col-sm-8 col-md-4">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-marketing.jpg" alt="Rough Flow Chart – Marketing" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.0 - Rough Flow Chart – Marketing</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-admin.jpg" alt="Rough Flow Chart – Admin" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
+				</figure>
+			</div>
+		</div>
+			<!--  -->
+			<!--  -->
+		<hr style="margin-bottom: 45px;">
+		<div class="row">
+			<aside class="col-sm-4 col-md-3">
+				<h3 class="libre h4">Usability Testing Protoypes:</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores soluta excepturi natus praesentium quaerat eius voluptas consectetur, quas architecto non!</p>
+			</aside>
+			<div class="col-sm-8 col-md-4">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-marketing.jpg" alt="Rough Flow Chart – Marketing" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.0 - Rough Flow Chart – Marketing</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-admin.jpg" alt="Rough Flow Chart – Admin" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
+				</figure>
+			</div>
+		</div>
+			<!--  -->
+			<!--  -->
+		<hr style="margin-bottom: 45px;">
+		<div class="row">
+			<aside class="col-sm-4 col-md-3">
+				<h3 class="libre h4">Visual Design:</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores soluta excepturi natus praesentium quaerat eius voluptas consectetur, quas architecto non!</p>
+			</aside>
+			<div class="col-sm-8 col-md-4">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-marketing.jpg" alt="Rough Flow Chart – Marketing" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.0 - Rough Flow Chart – Marketing</figcaption>
+				</figure>
+			</div>
+			<div class="col-sm-8 col-sm-offset-4 col-md-4 col-md-offset-0">
+				<figure>
+					<img src="../themes/smm/img/project-assets/otb/rough-flow-chart-admin.jpg" alt="Rough Flow Chart – Admin" class="img-responsive">
+					<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 3.1 - Rough Flow Chart – Admin</figcaption>
+				</figure>
+			</div>
+		</div>
+			<!--  -->
+	</div>
+</section>
+
+
 
 <!-- Web -->
 <section class="piece-bg" style="background-image:url(../themes/smm/img/project-assets/otb/otb-bg.jpg);">
@@ -304,9 +407,8 @@ Description: Project presentation for Case Manager
 	<div class="container">
 		<div class="row">
 			<aside class="col-sm-3 col-lg-2 hidden-xs">
-				<h3 class="libre h4">The Final Product:</h3>
-				<p><strong>Marketing Site:</strong> The team and I wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we strived to keep things simple and clear.</p>
-				<p><strong>Members Site:</strong> We wanted the membership site to feel more app-like than website-like; reduced clutter, well organized so the user can quickly get to what they want and an enjoyable experience all the way around.</p>
+				<h3 class="libre h4">The Product:</h3>
+				<p>The team and I wanted to inspire people to want more in their lives, and clearly tell how OTB authentically wants to help them do that.  As always, we strived to keep things simple and clear.</p>
 				<p>I coded the front-end using Bootstrap.  The back-end is using Ruby on Rails and was coded by <a href="http://www.linkedin.com/in/jonahdahlquist">Jonah Dahlquist</a>.</p>
 				<p>Visual Designer: <a href="http://za.linkedin.com/in/roikop">Lise-Marie Van Wyk</a></p>
 			</aside>
