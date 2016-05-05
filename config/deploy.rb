@@ -10,11 +10,12 @@ require 'mina/git'
 #   repository   - Git repo to clone from. (needed by mina/git)
 #   branch       - Branch name to deploy. (needed by mina/git)
 
-set :user, 'root'
-set :domain, '198.199.115.198'
-set :deploy_to, '/sites/production/jesseckuntz.com'
+set :user, 'jesseckuntz'
+set :domain, '216.107.148.194'
+set :deploy_to, '/home/jesseckuntz/public_html'
 set :repository, 'https://github.com/sharpmachine/jesseckuntz.com.git'
 set :branch, 'master'
+set :port, 7575
 
 # Manually create these paths in shared/ (eg: shared/config/database.yml) in your server.
 # They will be linked in the 'deploy:link_shared_paths' step.
@@ -54,12 +55,11 @@ task :deploy => :environment do
   deploy do
     # Put things that will set up an empty directory into a fully set-up
     # instance of your project.
-    invoke :'git:clone'
+    # invoke :'git:clone'
+    queue 'rm -rf /home/jesseckuntz/public_html/scm'
+    queue '/usr/local/cpanel/3rdparty/bin/git clone "https://github.com/sharpmachine/jesseckuntz.com.git" "/home/jesseckuntz/public_html/scm" --bare'
     invoke :'deploy:link_shared_paths'
-    queue 'chmod -R 777 content/cache'
-    # invoke :'bundle:install'
-    # invoke :'rails:db_migrate'
-    # invoke :'rails:assets_precompile'
+    # queue 'chmod -R 777 content/cache'
 
     to :launch do
       queue "touch #{deploy_to}/tmp/restart.txt"
