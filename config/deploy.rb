@@ -11,7 +11,7 @@ require 'mina/git'
 #   branch       - Branch name to deploy. (needed by mina/git)
 
 set :user, 'jesseckuntz'
-set :domain, '216.107.148.194'
+set :domain, '45.35.151.135'
 set :deploy_to, '/home/jesseckuntz/public_html'
 set :repository, 'https://github.com/sharpmachine/jesseckuntz.com.git'
 set :branch, 'master'
